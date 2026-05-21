@@ -43,17 +43,13 @@
 </p>
 
 ---
-
 ### 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indra-swe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra-swe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=indra-swe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra-swe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph"  />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indra-swe&theme=tokyonight&hide_border=true" alt="streak graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.telegram.sh/?user=indra-swe&theme=tokyonight&hide_border=true" alt="streak graph" />
+</p>
